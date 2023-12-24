@@ -1,0 +1,656 @@
+.wd-timer>span
+{
+	color: #50575e;
+    font-weight: 500;
+    font-size: 16px;
+}
+.whb-general-header-inner .woodmart-shopping-cart
+{
+	background-color: var(--wd-primary-color)  ;
+      
+    color: #fff;
+    border-radius: 10px;
+    font-family: 'IRANSans';
+    padding: 0px 8px;
+}
+.whb-general-header-inner .woodmart-shopping-cart a
+{
+	color:white;
+}
+.whb-general-header-inner .woodmart-shopping-cart a:hover
+{
+    color:white;
+}
+.wd-header-cart.wd-design-2 .wd-tools-text
+{
+	    margin-right: 15px !important;
+}
+.whb-general-header-inner .woodmart-shopping-cart
+{
+	font-family:iransans;
+}
+.wd-header-cart .wd-tools-text
+{
+	font-size:14px;
+	font-weight:600;
+	font-family:iranyekan;
+}
+.porforosh .wd-hover-tiled .product-wrapper
+{
+	box-shadow: 0px 3px 4px rgb(0 0 0 / 12%);
+    border-radius: 20px;
+    border-bottom: 4px solid #d7d6d6;
+    transition: 0.6s;
+    border-top: 3px solid #a4afb794;
+}
+.harajestoon span
+{
+	    color: #b279a7;
+       margin-top: -9px;
+}
+.harajestoon span:before{
+	    width: 30px;
+    content: url(http://dev-wp.ir/woodmartplus2/wp-content/uploads/2022/01/haraj.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.wd-nav.wd-style-bordered>li:not(:last-child):after, .wd-nav.wd-style-separated>li:not(:last-child):after{
+	content: " /";
+    border-right: 0px solid rgb(255 3 3 / 84%);
+}
+
+	.blink{
+    background-color: #b279a7;
+    padding: 11px 10px;
+    border-radius: 4px;
+	} .shegeft
+	{
+	
+       animation: blink 0.9s infinite;
+    color: white;
+    text-decoration: blink;
+    -webkit-animation-duration: 0.6s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-direction: alternate;
+    padding: 8px;
+    color: white;
+    font-weight: 500;
+    font-size: 11px;
+	}
+
+@keyframes blink{
+from {opacity: 1.0;}
+  to {opacity: 0.6;}
+}
+
+
+
+
+.wd-nav.wd-style-separated>li:not(:last-child):after{
+	height:24px
+}
+
+
+
+
+
+.bannersite .promo-banner
+{
+	border-radius: 15px;
+}
+
+.main-carousel
+{
+background-color:white;	
+}
+.backimgright
+{
+	position: absolute;
+    width: 7px;
+    height: 233px;
+    top: 25%;
+    background: var(--gradient-bg);
+    right: -8px;
+    border-radius: 0px 10px 10px 0px;
+}
+.backimgleft
+{
+	    position: absolute;
+    width: 7px;
+    height: 233px;
+    top: 25%;
+ 
+    background: var(--gradient-bg);
+    left: -8px;
+    border-radius: 10px 0px 0px 10px;
+}
+.footer-sidebar
+{
+	padding-top: 0px;
+	    padding-bottom: 0px;
+}
+.footer-column
+{
+	    margin-bottom: 0px;
+}
+.wd-slide
+{
+	border-radius:15px !important;
+	    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 10%);
+}
+.sliderdigi .wd-hover-tiled .product-wrapper
+{
+	box-shadow: 0px 3px 4px rgb(0 0 0 / 12%);
+
+	    border-bottom: 2px solid #d7d6d6;
+  transition: 0.6s;
+}
+.sliderdigi .wd-hover-tiled .product-wrapper:hover{
+	
+	  border-bottom: 2px solid #f47a68;
+}
+
+.woodmart-hover-tiled .product-wrapper
+{
+	border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+}
+.sliderdigi .wd-hover-tiled .product-element-bottom
+{
+	text-align: center;
+}
+.product-grid-item.woodmart-hover-tiled .hover-img img, .product-grid-item.woodmart-hover-tiled .product-image-link img
+{
+
+}
+.product-label.new
+{
+	    background-color: var(--wd-primary-color);
+}
+.labels-rectangular .product-label
+{
+	padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+.sliderdigi .wd-hover-tiled .product-element-bottom
+{
+	    text-align: center ;
+}
+.wd-stock-progress-bar .stock-info
+{
+	font-size: 12px;
+}
+.blog-post-loop .entry-header
+{
+	  padding:18px;
+	padding-top:30px;
+}
+.blog-post-loop .entry-thumbnail img,.post-img-wrapp
+{
+	border-radius: 20px !important;
+}
+.blog-design-masonry.blog-style-shadow .article-inner
+{
+	border-radius:15px
+}
+.blog-design-masonry.blog-style-shadow .article-inner
+{
+	box-shadow: 0 0 9px rgb(0 0 0 / 20%);
+}
+.blog-design-masonry.blog-style-shadow .article-inner
+{
+	border-radius: 15px;
+}
+.blog-design-masonry.blog-style-shadow .article-body-container
+{
+	    border-radius: 0px 0px 15px 15px;
+	margin-top:-10px;
+}
+.slide-post .entry-header:before
+{
+	content:" ";
+	position:absolute;
+	width:150px;
+	top:0px;
+	 left: 27%;
+ border-radius:0px 0px 10px 10px;
+	
+	height:8px;
+	background-color:var(--wd-primary-color);
+	
+}
+.wd-hover-tiled .product-element-bottom
+{
+    text-align:center;
+}
+.blog-post-loop:hover .slide-post .entry-header:before
+{
+background-color:var(--wd-primary-color);
+}
+.moreinfoslider
+{
+	background: var(--gradient-bg);
+    color: white;
+    border: none;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px -12px var(--primary-color);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.moreinfoslider:hover
+{
+	color:white;
+}
+h3.carousel-title
+{
+	    border-bottom: 3px solid #a3278c;
+	height:auto;
+}
+.carousel-image img 
+{
+	margin-top:15px;
+}
+.carousel-item--data
+{
+	grid-template-rows: 89px minmax(123px, auto) minmax(45px, auto) 65px;
+}
+.timer-size-medium .wd-timer>span
+{
+	    font-size: 15px !important;
+    border-radius: 9px;
+}
+
+
+
+/*  config */
+.woodmart-sidebar-content .widget
+{
+	padding: 20px;
+    box-shadow: 0 0px 1px 1px #e6e6e6;
+		background-color:white;
+	border-radius:3px;
+}
+.woodmart-sidebar-content .widget-title
+{
+	    background: rgba(125, 125, 125, 0.15);
+    padding: 10px 20px;
+	    font-weight: 600;
+
+}
+.woodmart-pf-dropdown .swatches-normal.swatches-brands .filter-swatch>span, .woodmart-woocommerce-layered-nav .swatches-normal.swatches-brands .filter-swatch>span
+{
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	
+}
+.shop-loop-head
+{
+box-shadow: 0 0px 1px 1px #e6e6e6;
+display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 20px;
+    max-width: 100%;
+    width: 100%;
+    padding: 10px 10px 0px 10px;
+    box-shadow: 0 0px 1px 1px #e6e6e6;
+    background-color: white;
+border-radius:3px;
+}
+.content-with-products .products-bordered-grid
+{
+	 box-shadow: 0 0px 1px 1px #e6e6e6;
+	    background-color: white;
+	border-radius:3px;
+}
+.woodmart-active-filters
+{
+	    background-color: white;
+
+	padding-right:3px;
+}
+.filters-opened
+{
+    padding: 20px;
+    box-shadow: 0 0px 1px 1px #e6e6e6;
+    background-color: white;
+    border-radius: 3px;	
+}
+
+.woodmart-sidebar-content .widget-title
+{
+	
+}
+.product_title entry-title
+{
+font-size:20px !important;
+
+}
+.descshort li
+{
+	    margin-top: 9px;
+}
+
+.product_title
+{
+	font-size:20px;
+	border-bottom:1.2px solid #bbbbbb6e;
+	padding-bottom:24px;
+
+}
+
+.prefooter .elementor-container 
+{
+	max-width:none !important;
+}
+
+
+
+.woocommerce-Reviews
+{
+        display: flow-root !important;
+}
+
+
+
+.wd-my-account-sidebar
+{
+        background-color: var(--wd-primary-color) ;
+}
+.woocommerce-MyAccount-navigation ul li a
+{
+    color: rgb(255 255 255 / 90%) !important;
+}
+
+.woocommerce-MyAccount-navigation ul li a:hover, .woocommerce-MyAccount-navigation ul li a:focus
+{
+    color:black !important;
+}
+.woocommerce-MyAccount-title
+{
+    color:white;
+}
+.woocommerce-MyAccount-content
+{
+    background-color: white;
+}
+
+
+.wd-header-cart .wd-cart-subtotal .amount
+{
+    font-family:iranyekan !important;
+}
+	.listproduct li 
+{
+	    list-style: square;
+    margin-top: 9px;
+    margin-right: 20px;
+}
+.product-image-summary .shop_attributes tr td:last-child
+{
+	text-align:right;
+}
+.wd-buttons.wd-pos-r-t
+{
+	    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    background: rgba(255,255,255,0.65);
+    box-shadow: 1px 1px 1px rgb(0 0 0 / 10%);
+    transition: all .3s ease;
+    border-radius: 15px;
+}
+.wd-buttons[class*="wd-pos-r"] .wd-tooltip-label:before{
+	        top: 50%;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px 5px 5px 0;
+    border-right-color: transparent;
+}
+.wd-buttons[class*="wd-pos-r"] .wd-tooltip-label
+{
+	top: 50%;
+    left: 100%;
+    margin-top: -17px;
+    margin-left: 8px;
+    padding: 0 15px !important;
+    line-height: 34px;
+    height: 34px;
+    color: #FFF;
+    text-align: center;
+    background-color: #555;
+    border-radius: 0;
+    white-space: nowrap;
+    max-width: 200px;
+    border-radius: 20px;
+}
+.wd-buttons[class*="wd-pos-r"] .wd-tooltip-label:before
+{border-right-color: transparent;
+	
+}
+.area-sidebar-shop .widget
+{
+	    padding: 20px;
+    box-shadow: 0 0px 1px 1px #e6e6e6;
+    background-color: white;
+}
+.area-sidebar-shop .widget-title
+{
+	    background: rgba(125, 125, 125, 0.15);
+    padding: 10px 20px;
+}
+.categories-menu-dropdown .wd-nav>li>a
+{
+	font-weight:400;
+}
+#customer_details
+{
+	background-color:white;
+}
+.wd-stock-progress-bar .progress-area, .wd-stock-progress-bar .progress-bar
+{
+	height:4px;
+}
+.wd-timer>span
+{
+min-width: 1.7em !important;
+    min-height: 1.7em !important;
+	    border-radius: 10px !important;
+}
+.wd-stock-progress-bar .stock-info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    color: #777;
+    font-size: 12px;
+}	
+.wd-timer
+{
+    direction:ltr;
+}
+.product-image-summary .wd-product-countdown
+{
+    text-align:right;
+}
+
+
+
+
+
+
+
+
+
+/*  end config  */
+
+
+
+
+
+
+
+.backimgright
+{
+	    right: 2px;
+}.wd-dropdown-menu.wd-design-full-width
+{
+	padding-top:0px;
+	padding:0px !important;
+}
+.footer-column
+{
+	margin-bottom:0px !important;
+}
+.footer-sidebar
+{
+	padding-bottom:0px;
+}
+.backimgleft
+{
+	left:2px;
+}
+.footer-sidebar
+{
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+.footer-column
+{
+	margin-bottom: 0px;
+}
+span.countdown-hours,span.countdown-days,span.countdown-min,span.countdown-sec,span.countdown-days
+{
+	font-size:15px;
+}
+.carousel-item  .wd-timer> span
+{
+	font-size:20px !important
+}
+
+#shop-carousel .carousel-swiper-slides
+{
+	max-height:460px;
+}
+.slide-post .entry-header:before{
+	    left: 25%;
+}
+.blog-design-masonry.has-post-thumbnail .post-date
+{
+	display:none;
+}
+.woodmart-recent-posts-list li
+{
+	list-style: none;
+    background-color: white;
+    /* border: 2px solid; */
+    border-radius: 7px;
+	margin-bottom:22px;
+       box-shadow: 0 2px 7px 0 #817e7e2b;
+}
+.recent-posts-thumbnail
+{
+	float:right;
+}
+.recent-posts-thumbnail img
+{
+	    margin-left: 10px;
+    border-radius: 7px;
+    width: 70px;
+    height: 70px;
+}
+.recent-posts-info
+{
+    padding-bottom: 13px;	
+}
+.blogcustom .wd-entities-title
+{
+	padding: 6px;
+	font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 0;
+	padding-top:10px;
+}
+.recent-posts-comment
+{
+    float: left;
+    background-color: #ebebeb;
+    margin-left: 8px;
+    color: #bdbdbd;
+    padding: 3px 13px;
+    border-radius: 14px;
+    font-size: 10px;
+}
+.product_title
+{
+	font-size:20px !important;
+	
+}
+.recent-posts-time
+{
+	font-size: 12px;
+    color: #bdbdbd;
+}
+.wd-entities-title a
+{
+	font-family:dana;font-size:15px;
+}
+.emailkhabar
+{
+	      border: 1px solid #ccbfbfa3 !important;
+    float: right;
+    width: 79% !important;
+    color: #90909e !important;
+   
+    border-radius: 0px 5px 5px 0px !important;
+}
+.btnkhabar
+{
+	    float: left !important;
+    width: 21% !important;
+    border-radius: 5px 0px 0px 5px !important;
+    background-color: var(--wd-primary-color) !important;
+}
+
+/* footer   */
+.elementor-icon.elementor-social-icon {
+    font-size: var(--icon-size,20px) !important;
+    line-height: var(--icon-size,25px) !important;
+    width: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .2em))) !important;
+    height: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .2em))) !important;
+}
+
+.copyrights-wrapper {
+    border-top: 1px solid rgba(119,119,119,0.2);
+    background-color: #eaeaea;
+}
+
+
+@media (max-width: 1024px)
+{
+	.btnkhabar
+	{
+		width:40% !important;
+		font-size:11px;
+	}
+	.emailkhabar
+	{
+		width:60% !important;
+	}
+	
+}

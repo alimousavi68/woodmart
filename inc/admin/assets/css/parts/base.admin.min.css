@@ -1,0 +1,5 @@
+.xts-pages .xts-header, .xts-box:not(:last-child), .xts-box, .xts-row
+{
+    display:none !important;
+    opacity:0 !important;
+}
